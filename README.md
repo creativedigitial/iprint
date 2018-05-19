@@ -1,2 +1,2 @@
 # iprint
-gestion de parc reprographique
+Projet Gestion de parc reprographique "Iprint"
